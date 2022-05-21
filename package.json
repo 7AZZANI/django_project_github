@@ -1,0 +1,22 @@
+{
+  "name": "npm-init-django_project_github",
+  "version": "1.0.0",
+  "description": "package.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SeaMan111/django_project_github1.git"
+  },
+  "keywords": [
+    "1122334455"
+  ],
+  "author": "azzani97 azzani97@proton.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SeaMan111/django_project_github1/issues"
+  },
+  "homepage": "https://github.com/SeaMan111/django_project_github1#readme"
+}
